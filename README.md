@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-npm i select-menu-oc-p14
+npm i @rockethell/selectmenu
 ```
 
 ## Props needed
@@ -23,7 +23,7 @@ npm i select-menu-oc-p14
 ## Example
 
 ```jsx
-import SelectMenu from 'select-menu-oc-p14';
+import SelectMenu from '@rockethell/selectmenu';
 
 function App() {
   const departments = [
